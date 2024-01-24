@@ -9,11 +9,6 @@ This is an E-Commerce project built with Node.js for server-side development, al
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Admin Access](#admin-access)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -49,3 +44,6 @@ To run this project locally, follow the instructions below:
 git clone https://github.com/your-username/ecommerce-project.git
 cd ecommerce-project
 npm install
+
+Run the application:
+npm start
